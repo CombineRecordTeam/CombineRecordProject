@@ -60,6 +60,20 @@ class ConfigHttp:
 		for i in range(n):
 			dr.swipe(x1,y1,x1,y2,t)
 
-			
-
 def main():
+	
+	
+def main():
+	__init__ = ''
+	__version__ = '20200618'
+	
+def execute():
+	mac = ''
+	s = 'Logging in... '
+	
+	
+def de():
+	
+	
+	
+	
