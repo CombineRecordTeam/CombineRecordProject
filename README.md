@@ -1,5 +1,8 @@
 # UnitedRecordProject
 Ultimate Aim: UnitedRecordProject is going to do the way that record data from each single person to a continuous output which can be seen and learned.
+
+Now we need more people to join us, you will do part of the develop job and get a piece of share.
+
 Features:There is really a lot of features that we want to achieved. So let me just be simple and figure some of the major features:
 
   (1) LOG IN FEATURE. This feature is going to let users come in. combine with wechat/qq/facebook/google and so on.
