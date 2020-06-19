@@ -5,6 +5,8 @@ Now we need more people to join us, you will do part of the develop job and get 
 
 Features:There is really a lot of features that we want to achieved. So let me just be simple and figure some of the major features:
 
+Every Features need at least 2 people to develop a demo, so it is totally 10 people.
+
   (1) LOG IN FEATURE. This feature is going to let users come in. combine with wechat/qq/facebook/google and so on.
   
   (2) Role Feature. This feature is going to choose the role that gives users to play later.
