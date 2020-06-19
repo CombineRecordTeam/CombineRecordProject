@@ -18,4 +18,16 @@ Every Features need at least 2 people to develop a demo, so it is totally 10 peo
   (5) Different Game Module Feature. This feature is going to have different modules.
   
   
-  (1) LOG IN FEATURE. This feature is going to have the log information. 
+Schedule: 
+  (1) Play feature. DavidX. June-July 15th. 
+      Module list:
+      1、 Map module; 
+      (1) Map load; (2) Map auto change; (3) 
+      2、 Move module;
+      3、 Attack module;
+      4、 Blood module;
+      5、 Win judge module;
+      6、
+      
+  (2) 
+  
